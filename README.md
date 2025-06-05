@@ -69,7 +69,7 @@ This APK is shared for **testing purposes only**. Do not redistribute without pe
 
 ## 📃License and Usages 
 
-Copyright (c) 2025 Sunil-Mahato
+Copyright (c) 2025 Sunil Mahato
 
 All rights reserved.
 
