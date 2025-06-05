@@ -63,7 +63,7 @@ This APK is shared for **testing purposes only**. Do not redistribute without pe
 --- 
 ## 📥 Download APK
 
-🔗 [Download Latest APK](https://github.com/your-username/mero-sathi-apk/releases/latest)
+🔗 [Download Latest APK](https://github.com/Mahato-Sunil/mero-sathi-apk/releases/tag/v1.0.0-alpha)
 
 
 
